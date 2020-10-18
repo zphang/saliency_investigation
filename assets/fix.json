@@ -1,0 +1,17 @@
+{
+  "batch_size": 72,
+  "mask_out_criterion": "crossentropy",
+  "mask_out_criterion_config": "",
+  "mask_out_objective_direction": "maximize",
+  "mask_out_objective_type": "entropy",
+  "mask_in_criterion": "crossentropy",
+  "mask_in_criterion_config": "",
+  "mask_in_objective_direction": "maximize",
+  "mask_in_objective_type": "classification",
+  "mask_out_lambda_r": 10.0,
+  "mask_in_lambda_r": 1.0,
+  "lambda_tv": 0.001,
+  "fixed_classifier": true,
+  "prob_historic": 0.0,
+  "save_freq": 100000000
+}
