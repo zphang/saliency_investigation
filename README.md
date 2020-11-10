@@ -185,7 +185,7 @@ Jason Phang, Jungkyu Park, Krzysztof J. Geras **"Investigating and Simplifying M
 @article{phang2020investigating,
   title={Investigating and Simplifying Masking-based Saliency Methods for Model Interpretability},
   author={Phang, Jason and Park, Jungkyu and Geras, Krzysztof J},
-  journal={arXiv preprint arXiv:2010.09750,
+  journal={arXiv preprint arXiv:2010.09750},
   year={2020}
 }
 ```
